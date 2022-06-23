@@ -1,0 +1,37 @@
+{
+  // normal 模式下移动到行首或行尾 -> shift + h，shift
+  "vim.operatorPendingModeKeyBindings": [
+    {
+      "before": ["H"],
+      "after": ["^"]
+    },
+    {
+      "before": ["L"],
+      "after": ["g", "_"]
+    }
+  ],
+  "vim.normalModeKeyBindings": [
+    {
+      "before": ["H"],
+      "after": ["^"]
+    },
+    {
+      "before": ["L"],
+      "after": ["g", "_"]
+    },
+    {
+      "before": ["J"],
+      "after": ["5", "j"]
+    },
+    { "before": ["K"], "after": ["5", "k"] }
+  ],
+  "vim.easymotion": true,
+  "vim.leader": "<Space>",
+  "vim.visualModeKeyBindings": [
+    {
+      "before": ["J"],
+      "after": ["5", "j"]
+    },
+    { "before": ["K"], "after": ["5", "k"] }
+  ]
+}
