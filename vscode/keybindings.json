@@ -1,0 +1,72 @@
+// 将键绑定放在此文件中以覆盖默认值auto[]
+[
+  // 「consoleHelper 插件需要使用该快捷键」默认展开行选择，移除
+  {
+    "key": "cmd+l",
+    "command": "-expandLineSelection",
+    "when": "textInputFocus"
+  },
+  // 视图：切换标签页可见性（经常不小心按到）移除
+  {
+    "key": "ctrl+cmd+w",
+    "command": "-workbench.action.toggleTabsVisibility"
+  },
+  // 终端：切换活动终端
+  {
+    "key": "shift+cmd+j",
+    "command": "workbench.action.quickOpenTerm"
+  },
+  // consoleHelper 插件，生成 console 语句
+  {
+    "key": "cmd+l",
+    "command": "consoleLog.insertLogStatement"
+  },
+  // 字符转大写
+  {
+    "key": "alt+d",
+    "command": "editor.action.transformToUppercase"
+  },
+  // 字符转小写
+  {
+    "key": "alt+x",
+    "command": "editor.action.transformToLowercase"
+  },
+  // 删除行，移除
+  {
+    "key": "shift+cmd+k",
+    "command": "-editor.action.deleteLines",
+    "when": "textInputFocus && !editorReadonly"
+  },
+  // 清除控制台
+  {
+    "key": "shift+cmd+k",
+    "command": "workbench.debug.panel.action.clearReplAction"
+  },
+  // 搜索编辑器：选择所有匹配项，移除
+  {
+    "key": "shift+cmd+l",
+    "command": "-selectAllSearchEditorMatches",
+    "when": "inSearchEditor"
+  },
+  // 选择所有找到的查找匹配项，移除
+  {
+    "key": "shift+cmd+l",
+    "command": "-editor.action.selectHighlights",
+    "when": "editorFocus"
+  },
+  // 视图：清除输出
+  {
+    "key": "shift+cmd+k",
+    "command": "workbench.output.action.clearOutput"
+  },
+  // 搜索：全部折叠
+  {
+    "key": "alt+cmd+a",
+    "command": "search.action.collapseSearchResults",
+  },
+  // 搜索：全部展开
+  {
+    "key": "alt+cmd+z",
+    "command": "search.action.expandSearchResults"
+  },
+]
