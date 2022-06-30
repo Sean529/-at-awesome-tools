@@ -22,10 +22,10 @@
 - **语雀** 笔记工具
 - **Notion** 工作相关总结
 - **飞书文档** 私有配置信息记录
-- [**Tot**](https://apps.apple.com/us/app/tot/id1491071483?mt=12)，简洁小巧的便笺
+- [**Tot**](https://apps.apple.com/us/app/tot/id1491071483?mt=12) 简洁小巧的便笺
 
 ### 效率
 
-- [**Alfred**](https://www.macwk.com/soft/alfred-4)，应用启动、Workflow
-- [**Thor**](https://github.com/gbammc/Thor)，一键直达应用
+- [**Alfred**](https://www.macwk.com/soft/alfred-4) 应用启动、Workflow
+- [**Thor**](https://github.com/gbammc/Thor) 一键直达应用
 - [**SnippetsLab**](https://www.renfei.org/snippets-lab/) 代码片段管理器
