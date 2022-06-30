@@ -28,3 +28,4 @@
 
 - [**Alfred**](https://www.macwk.com/soft/alfred-4)，应用启动、Workflow
 - [**Thor**](https://github.com/gbammc/Thor)，一键直达应用
+- [**SnippetsLab**](https://www.renfei.org/snippets-lab/) 代码片段管理器
