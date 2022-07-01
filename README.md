@@ -29,3 +29,7 @@
 - [**Alfred**](https://www.macwk.com/soft/alfred-4) 应用启动、Workflow
 - [**Thor**](https://github.com/gbammc/Thor) 一键直达应用
 - [**SnippetsLab**](https://www.renfei.org/snippets-lab/) 代码片段管理器
+
+### node
+- [**yrm**](https://www.npmjs.com/package/yrm) yarn 镜像源管理工具，可以快速地在 yarn 源间切换，提高我们的效率。
+- [**nvm**](https://github.com/nvm-sh/nvm) 切换不同版本的 node
