@@ -68,7 +68,7 @@
 ### 电脑
 
 - [**Apple M1 Max 16-inch, M1, 2021**](https://www.apple.com.cn/shop/buy-mac/macbook-pro/MK1A3CH/A) 自己买的，32G 内存太有必要了
-- **MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports)** 公司配的，作为生产力远远不够
+- **MacBook Pro (13-inch, inter, 2020)** 公司配的，作为生产力远远不够
 
 ### 电脑配件
 
