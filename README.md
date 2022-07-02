@@ -13,9 +13,14 @@
 主要使用 [**VSCode**](https://code.visualstudio.com/)，搭配 **Vim** 插件天下无敌。
 这是[我的 VScode 配置](./VSCode)。
 
-#### 插件
+**插件**
 
 - [**console helper**](https://marketplace.visualstudio.com/items?itemName=AT-9420.console-helper) 一款在 js 文件中使用快捷键输出 console.log 语句的插件，6k+下载量
+
+### 开发辅助
+
+- [**yrm**](https://www.npmjs.com/package/yrm) yarn 镜像源管理工具，可以快速地在 yarn 源间切换，提高我们的效率。
+- [**nvm**](https://github.com/nvm-sh/nvm) 切换不同版本的 node
 
 ### 输出
 
@@ -29,7 +34,3 @@
 - [**Alfred**](https://www.macwk.com/soft/alfred-4) 应用启动、Workflow
 - [**Thor**](https://github.com/gbammc/Thor) 一键直达应用
 - [**SnippetsLab**](https://www.renfei.org/snippets-lab/) 代码片段管理器
-
-### node
-- [**yrm**](https://www.npmjs.com/package/yrm) yarn 镜像源管理工具，可以快速地在 yarn 源间切换，提高我们的效率。
-- [**nvm**](https://github.com/nvm-sh/nvm) 切换不同版本的 node
